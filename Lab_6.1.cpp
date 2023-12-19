@@ -1,7 +1,6 @@
 #include <iostream>
 #include <ctime>
 
-
 using namespace std;
 
 void bubble (int arr[], int size_of_arr){
