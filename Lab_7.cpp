@@ -3,6 +3,7 @@
 
 using namespace std;
 
+
 void Shell (int A[], int size_of_A){
 int tmp, i, j, step;
 for (step = size_of_A/2; step>0; step/=2){
